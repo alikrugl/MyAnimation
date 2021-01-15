@@ -11,9 +11,6 @@ import java.awt.*;
  * File: MyAnimation.java
  *
  * My animation
- *
- * More details in Task #3 - Problem-solving in Java, Part 6 - Five seconds of glory
- *
  */
 public class MyAnimation extends WindowProgram {
 
